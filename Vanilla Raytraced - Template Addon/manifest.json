@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Template Addon for Vanilla Raytraced",
+        "description": "Template Addon for Vanilla §aRaytraced§r",
+        "version": [1, 1, 0],
+        "uuid": "TO GENERATE",
+		"min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "version": [1, 0, 0],
+            "type": "resources",
+            "uuid": "TO GENERATE"
+        }
+    ],
+    "capabilities" : [
+            "raytraced"
+    ]
+}
