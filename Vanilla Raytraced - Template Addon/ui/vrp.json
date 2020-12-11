@@ -13,7 +13,7 @@
 							"$glyph_texture": "textures/vrp/addons-template/icon",
 							"$glyph_color_texture": "textures/vrp/addons-template/icon",
 							"$button_text": "vanillaRaytraced.addons.template",
-							"$toggle_group_forced_index": 10002
+							"$toggle_group_forced_index": 1000x (DONT FORGET TO CHANGE THE x)
 						}
 					}
 				]
